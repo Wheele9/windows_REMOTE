@@ -49,7 +49,7 @@ void translateIR() // takes action based on IR code received
 		break;
 
 		case 0xFF629D:
-		Serial.println("MDOE");
+		Serial.println("MODE");
 		break;
 		
 		delay(1000);
